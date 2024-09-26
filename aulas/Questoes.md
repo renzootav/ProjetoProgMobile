@@ -1,3 +1,5 @@
+Código da aula no snack - https://snack.expo.dev/1KI931eizGG9DRYqwiAlI
+
 # Tema 1: Aula 01 – Apresentação da disciplina, recursos e conteúdo programático. Aprender na Extensão: Projetos inovadores com Impacto Social.
 
 ### 1) Entende-se como exemplo de dispositivo com tecnologia móvel :
