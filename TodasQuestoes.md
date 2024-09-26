@@ -100,3 +100,19 @@ Está(ão) correto(s):
 - [ ] c) Acionando o método spring de LayoutAnimation, parametrizado com valor 100.
 - [ ] d) Definindo o valor da borda com Animated.Value(0xFFH), e utilizando timing sobre o valor, com toValue igual a 0 e duration igual a 1000.
 - [ ] e) Acionando o método linear de LayoutAnimation, parametrizado com valor 100.
+
+# Tema 4: Aula 07 – Persistência local com React Native.
+
+### 1) Utilizar acesso assíncrono aos recursos de entrada e saída, como arquivos ou rede, é mais que uma boa prática nos dispositivos móveis, tratando de uma necessidade para a correta operação do sistema. Para definir uma função assíncrona, devemos acrescentar uma palavra reservada específica, a qual funciona como modificador. Qual a palavra reservada para definir uma função assíncrona?
+- [ ] a) then.
+- [ ] b) Promise.
+- [ ] c) result.
+- [ ] d) async.
+- [ ] e) await.
+
+### 2) O banco de dados SQLite é adotado como padrão de armazenagem no Android, e sua utilização, no ambiente do React Native, é muito simples. Após a inclusão do pacote correto, basta lidar com um pequeno grupo de métodos, em conjunto com instruções SQL para manipulação e consulta aos dados. Para efetuar a inserção de um registro na base, qual método deve ser executado?
+- [ ] a) executeInsert.
+- [ ] b) transaction.
+- [ ] c) executeSql.
+- [ ] d) openDatabase.
+- [ ] e) executeDelete.
